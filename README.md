@@ -1,5 +1,5 @@
 # People-Analytics
-Data Mining
+## Data Mining
 
 ### Performed EDA to understand data pattern, find causal relations & identify factors contributing to attrition
 ### Created word cloud to analyze sentiments of employees by using ‘wordcloud’ & ‘tm’ libraries
